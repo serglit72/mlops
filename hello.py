@@ -1,5 +1,4 @@
-import logging
-def h():
-    logging.info("Hello")
+#! /usr/bin/env python3
+def my_hello():
     return "Hi"
 
